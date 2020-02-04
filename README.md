@@ -1,4 +1,4 @@
 # math
 数学に関するメモ
 
-[https://github.com/minebreaker/math/wiki]()
+https://github.com/minebreaker/math/wiki
